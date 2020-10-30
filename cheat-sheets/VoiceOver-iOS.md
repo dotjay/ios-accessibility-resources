@@ -1,4 +1,4 @@
-# VoiceOver iOS shortcuts
+# VoiceOver iOS gestures
 
 
 ## Navigate and read
