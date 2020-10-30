@@ -1,5 +1,7 @@
 # VoiceOver iOS gestures
 
+PDF version available at: https://a11y.cc/iosvoref
+
 
 ## Navigate and read
 Speak item                          Tap once
@@ -40,3 +42,7 @@ Find previous item of category  Flick up
 This is the mode of operation where one finger is held down on the screen and moved around. The item beneath the finger is announced by VoiceOver.
 
 Activate selected item      Split-tap (with an item selected, tap the screen with another finger to activate an item)
+
+
+## Using VoiceOver and Zoom together
+When using VoiceOver and Zoom together (as of iOS 6), the 3-finger gestures change to include an additional tap. This is because the 3-finger double-tap is used by Zoom. The gesture for muting VoiceOver becomes a 3-finger triple-tap. The gesture for the screen curtain becomes a 3-finger quadruple-tap.
