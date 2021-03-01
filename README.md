@@ -1,2 +1,5 @@
-# ios-accessibility-resources
-A place to dump random iOS accessibility stuff I find useful. Slowly updating from training resources I've amassed over the years. More… at some point.
+# iOS accessibility resources
+
+Resources to help you learn about accessibility on iOS, and design and build accessible native mobile apps. 
+
+This is a work in progress. Please [raise an issue](https://github.com/dotjay/ios-accessibility-resources/issues) with any ideas or questions.
